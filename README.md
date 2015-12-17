@@ -1,7 +1,8 @@
 # shopcurbsideChallenge
 
-##coding challenge for shopcurbside
+###Description
+coding challenge for shopcurbside
 
-###Run
+#####Run
 run this python file in commandline
 
